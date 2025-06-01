@@ -11,5 +11,12 @@
   - document.getElementByIdで特定したセルを　document.getElementById("stock" + this.id).textContent = this.stock;で現在の在庫数に変更。
 ### Q4-3. 感想
 * 今回の課題で苦労したこと
+  - DOMについての理解にとても時間がかかりました。
+  - HTMLの扱い方
+  - 複数の処理の順序理解
 * 演習を通して理解できたこと
+  - DOM操作によって、JavaScriptからHTMLの内容を動的に変更できること。
+  - デバックツールの活用方法
 * この自動販売機プログラムの追加機能や課題など
+  - 在庫が0になったらボタンを無効化にする機能
+  - ボタンなどの見た目
