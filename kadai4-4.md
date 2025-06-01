@@ -10,7 +10,7 @@
 * 特定したセルの値をどのように変更するのか説明せよ。
   - document.getElementByIdで特定したセルを　document.getElementById("stock" + this.id).textContent = this.stock;で現在の在庫数に変更。
 ### Q4-3. 感想
-* 今回の課題で苦労したこと
+* 今回の課題で苦労したこと　
   - DOMについての理解にとても時間がかかりました。
   - HTMLの扱い方
   - 複数の処理の順序理解
